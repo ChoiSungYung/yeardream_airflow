@@ -3,7 +3,7 @@ import requests
 
 client_id = '67b0ec369140507bc792c9e460a26e91'
 redirect_uri = 'https://example.com/oauth'
-authorize_code = 'H4Xpp1K9-p3pJf5EiIgNuJFu174pz3uyBFSU8_K--2GM6zFeqYDCgwAAAAQKPXLqAAABkC3zEzJPBWDH3LuH7A'
+authorize_code = '5WvFe2seP4bI-YQ-peldMD93XY2AuUmNlzyukGU3K8uWXTBYqMtImgAAAAQKPXLrAAABkC48o6C2xj-RG-1vuA'
 
 
 token_url = 'https://kauth.kakao.com/oauth/token'
